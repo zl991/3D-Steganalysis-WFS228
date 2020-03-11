@@ -9,4 +9,4 @@ url:https://www.sciencedirect.com/science/article/pii/S0020025520301444
 
 If you find the codes helpful to your research or interesting, please cite the referece above.
 
-
+The code was implemented by Zhenyu Li, while he was a PhD student in University of York, under the supervison of Dr. Adrian G. Bors (https://github.com/AdrianBors). If you have any question about the code, please contact zheenyuli@gmail.com
